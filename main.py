@@ -23,7 +23,7 @@ while True:
     img = cv2.flip(img, 1)
 
     img = hand_detector.process_hands(img)
-    landmark_list = hand_detector.find_position(img)
+    landmark_list = hand_detector.get_positions(img)
 
     if landmark_list:
         indicator_landmark = landmark_list[8]

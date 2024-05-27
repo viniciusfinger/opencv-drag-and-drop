@@ -25,7 +25,7 @@ class HandDetector():
 
         return img
 
-    def find_position(self, img, hand_number=0, draw=True):
+    def get_positions(self, img, hand_number=0, draw=True):
         landmark_list = []
         if self.results.multi_hand_landmarks:
             myHand = self.results.multi_hand_landmarks[hand_number]
