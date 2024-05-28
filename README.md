@@ -2,6 +2,8 @@
 
 This Python application demonstrates drag and drop functionality using OpenCV and Datapipe. By leveraging computer vision techniques, users can interact with objects on the screen by performing simple hand gestures.
 
+![](https://i.ibb.co/cwhkN8r/Grava-o-de-Tela-2024-05-27-s-23-15-17-2.gif)
+
 ## Features
 
 - **Drag and Drop Interaction**: Use the 👌🏻 gesture to drag objects within the application window.
