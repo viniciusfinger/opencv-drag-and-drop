@@ -1,0 +1,32 @@
+absl-py==2.1.0
+altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+attrs==23.2.0
+cffi==1.16.0
+contourpy==1.2.1
+cycler==0.12.1
+flatbuffers==24.3.25
+fonttools==4.52.4
+future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+importlib_metadata==7.1.0
+importlib_resources==6.4.0
+jax==0.4.28
+jaxlib==0.4.28
+kiwisolver==1.4.5
+macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib==3.9.0
+mediapipe==0.10.14
+ml-dtypes==0.4.0
+numpy==1.26.4
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+opt-einsum==3.3.0
+packaging==24.0
+pillow==10.3.0
+protobuf==4.25.3
+pycparser==2.22
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+scipy==1.13.1
+six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sounddevice==0.4.7
+zipp==3.19.0
